@@ -1,2 +1,4 @@
-django
-pillow
+django==1.9.7
+django-allauth
+beautifulsoup4
+
